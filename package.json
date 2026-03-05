@@ -1,0 +1,8 @@
+{
+  "name": "bayou-proxy",
+  "version": "1.0.0",
+  "description": "Netlify proxy function for Bayou browser",
+  "engines": {
+    "node": ">=18"
+  }
+}
